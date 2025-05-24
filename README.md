@@ -50,9 +50,19 @@ A modern, responsive web application built using **Next.js**, **Tailwind CSS**, 
 ```bash
 git clone https://github.com/karthikks26/beyondchats-assign.git
 cd beyondchats-assign
+```
+
+### 2. Install Dependencies
+
+```
 npm install
 # or
 yarn install
+```
+
+### 3. Run the Development Server
+
+```
 npm run dev
 # or
 yarn dev
